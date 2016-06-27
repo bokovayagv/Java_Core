@@ -1,0 +1,72 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Module_3/Class/.idea/.name
+#	new file:   Module_3/Class/.idea/compiler.xml
+#	new file:   Module_3/Class/.idea/copyright/profiles_settings.xml
+#	new file:   Module_3/Class/.idea/encodings.xml
+#	new file:   Module_3/Class/.idea/misc.xml
+#	new file:   Module_3/Class/.idea/modules.xml
+#	new file:   Module_3/Class/.idea/uiDesigner.xml
+#	new file:   Module_3/Class/.idea/workspace.xml
+#	new file:   Module_3/Class/dz1.iml
+#	new file:   Module_3/Class/out/production/dz1/Directory/Audio_fail.class
+#	new file:   Module_3/Class/out/production/dz1/Directory/Direcroty.class
+#	new file:   Module_3/Class/out/production/dz1/Directory/FailAbstract.class
+#	new file:   Module_3/Class/out/production/dz1/Directory/Jpeg_fail.class
+#	new file:   Module_3/Class/out/production/dz1/Directory/Text_fail.class
+#	new file:   Module_3/Class/src/Directory/Audio_fail.java
+#	new file:   Module_3/Class/src/Directory/Direcroty.java
+#	new file:   Module_3/Class/src/Directory/FailAbstract.java
+#	new file:   Module_3/Class/src/Directory/Jpeg_fail.java
+#	new file:   Module_3/Class/src/Directory/Text_fail.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/.name
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/compiler.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/copyright/profiles_settings.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/encodings.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/misc.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/modules.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/.idea/workspace.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/dz1.iml
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/out/production/dz1/audio_fail.class
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/out/production/dz1/direcroty.class
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/out/production/dz1/fail.class
+#	new file:   Module_3/Home/bokovayagv/m3/dz1/out/production/dz1/jpeg_fail.class
+#	renamed:    Module_3/Home/bokovayagv/m3/out/production/dz1/main.class -> Module_3/Home/bokovayagv/m3/dz1/out/production/dz1/main.class
+#	renamed:    Module_3/Home/bokovayagv/m3/src/audio_fail.java -> Module_3/Home/bokovayagv/m3/dz1/src/audio_fail.java
+#	renamed:    Module_3/Home/bokovayagv/m3/src/direcroty.java -> Module_3/Home/bokovayagv/m3/dz1/src/direcroty.java
+#	renamed:    Module_3/Home/bokovayagv/m3/src/fail.java -> Module_3/Home/bokovayagv/m3/dz1/src/fail.java
+#	renamed:    Module_3/Home/bokovayagv/m3/src/jpeg_fail.java -> Module_3/Home/bokovayagv/m3/dz1/src/jpeg_fail.java
+#	renamed:    Module_3/Home/bokovayagv/m3/src/main.java -> Module_3/Home/bokovayagv/m3/dz1/src/main.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/.name
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/compiler.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/copyright/profiles_settings.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/encodings.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/misc.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/modules.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/uiDesigner.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/.idea/workspace.xml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/dz2.iml
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/aster.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/bouquet.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/chamomile.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/flower.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/rose.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/shrub.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz2/src/tulip.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz_1_270616/Audio_fail.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz_1_270616/Direcroty.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz_1_270616/FailAbstract.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz_1_270616/Jpeg_fail.java
+#	new file:   Module_3/Home/bokovayagv/m3/dz_1_270616/Text_fail.java
+#
+# Untracked files:
+#	Module_1/home/dz1/.idea/
+#	Module_1/home/dz1/dz1.iml
+#	VIDEO/
+#
+
